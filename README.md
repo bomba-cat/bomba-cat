@@ -13,7 +13,6 @@
 - Name: Bledion
 - Age: 16
 - Location: Switzerland, Saint Gallen
-- Bored and no Idea on what Projects to work on
 
 ## My Skill
 - Programming Languages:
