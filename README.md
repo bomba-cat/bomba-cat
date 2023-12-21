@@ -1,7 +1,7 @@
 # xk-rl a.k.a Tinibar
   
   <a href="https://github.com/xk-rl">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xk-rl&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xk-rl&hide=ASP.NET,jupyter%20notebook&theme=dark" height="220px"/>
   </a>
   <a href="https://github.com/xk-rl">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=xk-rl&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="xk-rl's github stats" height="220px" />
