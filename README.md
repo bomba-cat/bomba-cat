@@ -1,4 +1,4 @@
-# xk-rl
+# xk-rl a.k.a Tinibar
   
   <a href="https://github.com/xk-rl">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xk-rl&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
