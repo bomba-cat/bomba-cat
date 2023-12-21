@@ -42,7 +42,6 @@
   - neovide/neovim
   - notepad++
   - intellij
- 
   - 99% of the time i use neovide
 # Other Stuff
 - 🔭 I’m currently working on Publishing my linux distro
