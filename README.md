@@ -16,8 +16,16 @@
 - Bored and no Idea on what Projects to work on
 
 ## My Skill
-- 
-  
+- Python: 100%
+- Java: 75%
+- JavaScript: 45%
+- C: 60%
+- C++: 70%
+- C#: 55%
+- Lua: 80%
+- Assembly: 0 (Learning it now!)
+
+# Other Stuff
 - 🔭 I’m currently working on Publishing my linux distro
 - 🌱 I’m currently learning assembly
 - 📫 How to reach me:
