@@ -32,6 +32,8 @@
   - Fedora
   - Ubuntu
   - My own LFS :laughing:
+  - Windows
+  - MacOS but poorly
 
 - Editors i use:
   - vim/vi
