@@ -32,4 +32,7 @@
 - - bledion.morina@hotmail.com
   - bomba.cat on discord
 - ⚡ Fun fact: I made my own LFS System
+
+- # In case you want me to help in any projects im always reachable with my mail!
+
 # Unfortunatly i lost a lot of my Projects after both my hard drives decided to give up on me, currently reworking on everything!
