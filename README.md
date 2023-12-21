@@ -1,3 +1,5 @@
+# xk-rl
+  
   <a href="https://github.com/xk-rl">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xk-rl&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
   </a>
@@ -6,9 +8,20 @@
   </a>
 
 
+
+## About me
+- Name: Bledion
+- Age: 16
+- Location: Switzerland, Saint Gallen
+- Bored and no Idea on what Projects to work on
+
+## My Skill
+- 
   
 - 🔭 I’m currently working on Publishing my linux distro
 - 🌱 I’m currently learning assembly
-- 📫 How to reach me: bledion.morina@hotmail.com
+- 📫 How to reach me:
+- - bledion.morina@hotmail.com
+  - bomba.cat on discord
 - ⚡ Fun fact: I made my own LFS System
 # Unfortunatly i lost a lot of my Projects after both my hard drives decided to give up on me, currently reworking on everything!
