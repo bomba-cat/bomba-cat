@@ -32,6 +32,17 @@
   - Ubuntu
   - My own LFS :laughing:
 
+- Editors i use:
+  - vim/vi
+  - nano
+  - kakoune
+  - vscode
+  - vs 2019
+  - neovide/neovim
+  - notepad++
+  - intellij
+ 
+  - 99% of the time i use neovide
 # Other Stuff
 - 🔭 I’m currently working on Publishing my linux distro
 - 🌱 I’m currently learning assembly
