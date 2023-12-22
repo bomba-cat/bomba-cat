@@ -16,7 +16,7 @@
 
 ## My Skill
 - Programming Languages:
-  - Python: 100%
+  - Python: 90%
   - Java: 75%
   - JavaScript: 45%
   - C: 60%
