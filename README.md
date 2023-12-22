@@ -23,7 +23,7 @@
   - C++: 70%
   - C#: 55%
   - Lua: 80%
-  - Assembly: 0 (Learning it now!)
+  - Assembly: 5%
 
 - Able to use:
   - Arch
