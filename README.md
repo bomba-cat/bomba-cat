@@ -48,7 +48,7 @@
 - 🔭 I’m currently working on Publishing my linux distro
 - 🌱 I’m currently learning assembly
 - 📫 How to reach me:
-- - bledion.morina@hotmail.com
+  - bledion.morina@hotmail.com
   - bomba.cat on discord
 - ⚡ Fun fact: I made my own LFS System
 
