@@ -45,12 +45,12 @@
   - intellij
   - 99% of the time i use neovide
 # Other Stuff
-- 🔭 I’m currently working on Publishing my linux distro
+- 🔭 I’m currently working on my operating system, from scratch.
 - 🌱 I’m currently learning assembly
 - 📫 How to reach me:
   - bledion.morina@hotmail.com
   - bomba.cat on discord
-- ⚡ Fun fact: I made my own LFS System
+- ⚡ Fun fact: I am making an operating system to learn assembly
 
 - ## In case you want me to help in any projects im always reachable with my mail!
 
