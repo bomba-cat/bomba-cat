@@ -10,7 +10,7 @@
 
 
 ## About me
-- Name: Bledion
+- Name: xk-rl 😜
 - Age: 16
 - Location: Switzerland, Saint Gallen
 
