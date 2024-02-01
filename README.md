@@ -18,12 +18,12 @@
 - Programming Languages:
   - Python: 90%
   - Java: 75%
-  - JavaScript: 45%
-  - C: 60%
-  - C++: 70%
-  - C#: 55%
+  - JavaScript: 50%
+  - C: 55%
+  - C++: 65%
+  - C#: 50%
   - Lua: 80%
-  - Assembly (x86_64, x86, 16bit), (nasm): 10%
+  - Assembly (x86_64, x86, 16bit), (nasm): 20%
 
 - Able to use:
   - Arch
