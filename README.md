@@ -23,7 +23,7 @@
   - C++: 65%
   - C#: 50%
   - Lua: 80%
-  - Assembly (x86_64, x86, 16bit), (nasm): 20%
+  - Assembly (x86_64, x86, 16bit), (nasm): 35%
 
 - Able to use:
   - Arch
