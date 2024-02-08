@@ -35,19 +35,17 @@
   - MacOS but poorly
 
 - Editors i use:
-  - vim/vi
+  - vim/vi/neovim/neovide
   - nano
   - kakoune
   - vscode
   - vs 2019
-  - neovide/neovim
   - notepad++
   - intellij
-  - 99% of the time i use neovide
 # Other Stuff
 - 🔭 I’m currently working on my operating system, from scratch.
 - 🌱 I’m currently learning assembly
 - 📫 How to reach me:
   - bledion.morina@hotmail.com
   - bomba.cat on discord
-- ⚡ Fun fact: I am making an operating system to learn assembly
+- ⚡ Fun fact: My main editor is neovide/neovim
