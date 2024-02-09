@@ -1,4 +1,4 @@
-# xk-rl a.k.a Tinibar
+# xk-rl
   
   <a href="https://github.com/xk-rl">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xk-rl&hide=ASP.NET,jupyter%20notebook&count_private=false&theme=calm_pink" height="220px"/>
@@ -10,7 +10,7 @@
 
 
 ## About me
-- Name: xk-rl 😜
+- Name: Bledion
 - Age: 16
 - Location: Switzerland, Saint Gallen
 
@@ -26,18 +26,16 @@
   - Assembly (x86_64, x86, 16bit), (nasm): 35%
 
 - Able to use:
-  - Arch
-  - Debian
-  - Fedora
-  - Ubuntu
-  - My own LFS :laughing:
+  - Linux (Fedora, Debian, Arch, Gentoo)
+  - My own LFS
   - Windows
   - MacOS but poorly
+  - 16RM-OS (my own os from scratch)
 
 - Editors i use:
   - vim/vi/neovim/neovide
   - nano
-  - kakoune
+  - kakoune, vim based
   - vscode
   - vs 2019
   - notepad++
