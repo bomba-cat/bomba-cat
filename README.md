@@ -44,6 +44,5 @@
 - 🔭 I’m currently working on my operating system, from scratch.
 - 🌱 I’m currently learning assembly
 - 📫 How to reach me:
-  - bledion.morina@hotmail.com
   - bomba.cat on discord
 - ⚡ Fun fact: My main editor is neovide/neovim
