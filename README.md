@@ -7,7 +7,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=xk-rl&count_private=true&hide=stars&show_icons=true&theme=gruvbox&line_height=27" alt="xk-rl's github stats" height="220px" />
   </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xk-rl&theme=gruvbox&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xk-rl&theme=gruvbox&rank=-C,-?&row=2&column=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About me
 - Age: 16
