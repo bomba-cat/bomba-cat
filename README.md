@@ -10,9 +10,7 @@
 
 
 ## About me
-- Name: Bledion
 - Age: 16
-- Location: Switzerland, Saint Gallen
 
 ## My Skill
 - Programming Languages:
