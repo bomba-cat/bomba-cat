@@ -1,4 +1,4 @@
-# xk-rl
+# xk-rl Stats
   
   <a href="https://github.com/xk-rl">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xk-rl&hide=ASP.NET,jupyter%20notebook&count_private=false&theme=gruvbox&hide_border=true" height="220px"/>
@@ -10,7 +10,7 @@
 # Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=xk-rl&theme=gruvbox&rank=-C,-?&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-## About me
+## About Me
 - Age: 16
 
 ## My Skill
