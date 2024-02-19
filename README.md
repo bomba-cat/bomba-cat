@@ -22,7 +22,7 @@
   - C++: 65%
   - C#: 50%
   - Lua: 80%
-  - Assembly (x86_64, x86, 16bit), (nasm): 35%
+  - Assembly (x86_64, x86, 16bit), (nasm): 40%
 
 - Able to use:
   - Linux (Fedora, Debian, Arch, Gentoo)
