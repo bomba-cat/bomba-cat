@@ -23,6 +23,7 @@
   - C#: 50%
   - Lua: 80%
   - Assembly (x86_64, x86, 16bit), (nasm): 40%
+  - Rust: 15%
 
 - Able to use:
   - Linux (Fedora, Debian, Arch, Gentoo)
