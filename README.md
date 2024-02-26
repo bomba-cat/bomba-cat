@@ -50,17 +50,13 @@
 
   - 16RM-OS (my own os from scratch)
 
-- Editors i use:
-  - vim/vi/neovim/neovide
-  - nano
-  - kakoune, vim based
-  - vscode
-  - vs 2019
-  - notepad++
-  - intellij
-# Other Stuff
-- 🔭 I’m currently working on my operating system, from scratch.
-- 🌱 I’m currently learning assembly
-- 📫 How to reach me:
-  - bomba.cat on discord
-- ⚡ Fun fact: My main editor is neovide/neovim
+### Editors
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+</div>
