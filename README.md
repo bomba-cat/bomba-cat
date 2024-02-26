@@ -32,10 +32,18 @@
 </div>
 
 - Able to use:
-  - Linux (Fedora, Debian, Arch, Gentoo)
-  - My own LFS
-  - Windows
-  - MacOS but poorly
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+</div>
+
   - 16RM-OS (my own os from scratch)
 
 - Editors i use:
