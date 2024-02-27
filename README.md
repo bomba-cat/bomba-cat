@@ -8,7 +8,7 @@
   </a>
 
 # Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=xk-rl&theme=gruvbox&rank=-C,-?&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xk-rl&theme=gruvbox&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me
 - Age: 16
