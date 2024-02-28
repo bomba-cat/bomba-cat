@@ -13,8 +13,7 @@
 ## About Me
 - Age: 16
 
-## My Skillhttps://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/1200px-Netwide_Assembler.svg.png
-### Programming Languages
+## My Skill
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="javascript logo"  />
