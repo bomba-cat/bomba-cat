@@ -11,7 +11,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=xk-rl&theme=gruvbox&rank=-?&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me
-- Age: 16
+  - Age: 16
 
 ## My Skill
 <div align="left">
