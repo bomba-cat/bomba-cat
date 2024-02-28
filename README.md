@@ -13,13 +13,13 @@
 ## About Me
 - Age: 16
 
-## My Skill
+## My Skillhttps://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/1200px-Netwide_Assembler.svg.png
 ### Programming Languages
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F444841%2Fnetwide-assembler-nasm&psig=AOvVaw2sc6t89KC4RLat6JAUC9bc&ust=1709195485297000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjD-L_PzYQDFQAAAAAdAAAAABAE" height="30" alt="nasm logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/1200px-Netwide_Assembler.svg.png" height="30" alt="nasm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="react logo"  />
   <img width="12" />
