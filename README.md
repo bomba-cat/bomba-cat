@@ -10,9 +10,6 @@
 # Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=xk-rl&theme=gruvbox&rank=-?&margin-w=10&no-frame=true)](https://github.com/xk-rl)
 
-## About Me
-  - Age: 16
-
 ## My Skill
 <div align="left">
 
