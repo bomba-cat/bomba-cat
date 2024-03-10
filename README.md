@@ -64,3 +64,6 @@
   <a href="https://discord.com/user/788022153634906154">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
+  <a href="mailto:bledion.morina@hotmail.com">
+    <img src="https://img.shields.io/static/v1?message=E-Mail&logo=E-Mail&label=&color=c9deff&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="email-logo" />
+  </a>
