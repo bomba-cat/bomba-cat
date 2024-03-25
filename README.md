@@ -67,6 +67,6 @@
     <img src="https://img.shields.io/static/v1?message=E-Mail&logo=E-Mail&label=&color=c9deff&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="email-logo" />
   </a>
 
-# ***__--------------------------------------------------------------------------------------------------__***
+# ***__---------------------------------------------------------------------------------------------__***
 
 ![rewrite it in rust](https://ghost.fission.codes/content/images/2023/04/Rewrite-It-In-Rust---Postcard---Front.jpeg)
