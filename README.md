@@ -66,11 +66,3 @@
   <a href="mailto:bledion.morina@hotmail.com">
     <img src="https://img.shields.io/static/v1?message=E-Mail&logo=E-Mail&label=&color=c9deff&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="email-logo" />
   </a>
-
-# ***__---------------------------------------------------------------------------------------------__***
-
-![rewrite it in rust](https://ghost.fission.codes/content/images/2023/04/Rewrite-It-In-Rust---Postcard---Front.jpeg)
-
-# How to become an arch linux user 
-
-![average arch user](https://preview.redd.it/pc-build-for-an-average-arch-user-v0-ja2mrc4hdxjc1.jpeg?width=1080&crop=smart&auto=webp&s=16df0cc6f47fb3edff113d4390b45c8f22466d0a)
