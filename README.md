@@ -1,14 +1,14 @@
 # xk-rl Stats
   
-  <a href="https://github.com/xk-rl" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xk-rl&exclude_repo=ArchCodeConfig,ArchCode-Site&hide=ASP.NET,jupyter%20notebook&count_private=false&theme=gruvbox&hide_border=true" height="220px" style="border: none !important;" />
+  <a href="https://github.com/bomba-cat" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bomba-cat&exclude_repo=ArchCodeConfig,ArchCode-Site&hide=ASP.NET,jupyter%20notebook&count_private=false&theme=gruvbox&hide_border=true" height="220px" style="border: none !important;" />
   </a>
-  <a href="https://github.com/xk-rl">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xk-rl&count_private=true&hide=stars&show_icons=true&theme=gruvbox&line_height=27&hide_border=true" alt="xk-rl's github stats" height="220px" style="border: none !important;" />
+  <a href="https://github.com/bomba-cat">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bomba-cat&count_private=true&hide=stars&show_icons=true&theme=gruvbox&line_height=27&hide_border=true" alt="xk-rl's github stats" height="220px" style="border: none !important;" />
   </a>
 
 # Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=xk-rl&theme=gruvbox&rank=-?&margin-w=10&no-frame=true)](https://github.com/xk-rl)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bomba-cat&theme=gruvbox&rank=-?&margin-w=10&no-frame=true)](https://github.com/xk-rl)
 
 ## My Skill
 ### Programming Languages
