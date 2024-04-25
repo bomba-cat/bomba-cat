@@ -1,4 +1,4 @@
-# xk-rl Stats
+# bomba-cat Stats
   
   <a href="https://github.com/bomba-cat" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bomba-cat&exclude_repo=ArchCodeConfig,ArchCode-Site&hide=ASP.NET,jupyter%20notebook&count_private=false&theme=gruvbox&hide_border=true" height="220px" style="border: none !important;" />
