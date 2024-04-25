@@ -43,7 +43,7 @@
   <img width="12" />
 </div>
 
-[16RM-OS](https://github.com/xk-rl/16RM-OS 'My own os from scratch')
+[16RM-OS](https://github.com/bomba-cat/16RM-OS 'My own os from scratch')
 
 ### Editors
 <div align="left">
@@ -55,6 +55,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
 </div>
+
+### Currently working on
+- [ArchCode](https://github.com/bomba-cat/ArchCode), a linux operating system
+- [SillyWankerShader](https://github.com/bomba-cat/SillyWankerShader), a minecraft shader
 
 ### Sozials
   <a href="https://twitch.tv/bombadotcat">
