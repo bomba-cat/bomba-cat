@@ -28,7 +28,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
   <img width="12" />
-  <img src="https://banner2.cleanpng.com/20180706/cgx/kisspng-opengl-es-khronos-group-webgl-vulkan-2-joints-logo-5b3ff56a7e3b32.4547911415309182505171.jpg" height="30" alt="opengl/glsl" />
+  <img src="https://w7.pngwing.com/pngs/454/878/png-transparent-opengl-hd-logo.png" height="30" alt="opengl/glsl" />
 </div>
 
 ### Operating systems
