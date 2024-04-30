@@ -27,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/454/878/png-transparent-opengl-hd-logo.png" height="30" alt="opengl/glsl" />
 </div>
 
 ### Operating systems
