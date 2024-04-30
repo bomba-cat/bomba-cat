@@ -14,7 +14,7 @@
 ### Programming Languages
 <div align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Netwide_Assembler.svg/1200px-Netwide_Assembler.svg.png" height="30" alt="nasm logo"  />
   <img width="12" />
