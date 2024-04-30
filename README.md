@@ -27,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img width="12" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://banner2.cleanpng.com/20180706/cgx/kisspng-opengl-es-khronos-group-webgl-vulkan-2-joints-logo-5b3ff56a7e3b32.4547911415309182505171.jpg)" height="30" alt="opengl/glsl" />
 </div>
 
 ### Operating systems
