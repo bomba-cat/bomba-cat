@@ -77,3 +77,5 @@
   <a href="mailto:bledion.morina@hotmail.com">
     <img src="https://img.shields.io/static/v1?message=E-Mail&logo=E-Mail&label=&color=c9deff&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="email-logo" />
   </a>
+
+[![](https://visitcount.itsvg.in/api?id=bomba-cat&label=Profile%20Views&icon=3&pretty=false)](https://visitcount.itsvg.in)
