@@ -8,7 +8,7 @@
   </a>
 
 # Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=bomba-cat&theme=gruvbox&rank=-?&margin-w=10&no-frame=true)](https://github.com/bomba-cat)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bomba-cat&theme=oldie&rank=-?&margin-w=10&no-frame=true)](https://github.com/bomba-cat)
 
 ## My Skill
 ### Programming Languages
