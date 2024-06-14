@@ -4,7 +4,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bomba-cat&exclude_repo=ArchCodeConfig,ArchCode-Site&hide=ASP.NET,jupyter%20notebook&count_private=false&bg_color=white&hide_border=true" height="220px" style="border: none !important;" />
   </a>
   <a href="https://github.com/bomba-cat">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bomba-cat&count_private=true&hide=stars&show_icons=true&theme=gruvbox&line_height=27&hide_border=true" alt="xk-rl's github stats" height="220px" style="border: none !important;" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bomba-cat&count_private=true&hide=stars&show_icons=true&bg_color=white&line_height=27&hide_border=true" alt="xk-rl's github stats" height="220px" style="border: none !important;" />
   </a>
 
 # Github Profile Trophy
