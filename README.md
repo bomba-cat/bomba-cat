@@ -4,7 +4,7 @@
   <a href="https://github.com/bomba-cat"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bomba-cat&theme=gruvbox&count_private=true&hide=stars&show_icons=true&line_height=27&hide_border=true" alt="bomba-cats's github stats" height="220px" style="border: none !important;" /></a>
 
 # Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=bomba-cat&theme=gruvbox&rank=-?&margin-w=10&no-frame=true)](https://github.com/bomba-cat)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bomba-cat&theme=gruvbox&rank=-?&margin-w=4&no-frame=true)](https://github.com/bomba-cat)
 
 ## My Skill
 ### Programming Languages
