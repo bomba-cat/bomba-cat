@@ -26,7 +26,7 @@
   <a href="https://www.freebsd.org/" target="_blank" rel="noreferrer"><img src="https://www.freebsd.org/images/beastie.png" alt="freebsd" width="40" height="40"/></a>
   <a href="https://www.windows.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png" alt="freebsd" width="40" height="40"/></a>
 </div>
-As of right now im using FreeBSD 14.1
+As of now im using NetBSD and Fedora
 
 ### Editors
 <div align="left">
