@@ -58,9 +58,4 @@ As of now im using NetBSD and Fedora
 - Frame-Engine (Private for now)
 - [SillyWankerShader](https://github.com/bomba-cat/SillyWankerShader), The rewrite is real
 
-### Sozials
-  <a href="https://twitch.tv/bombacatsillyedition"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" /></a>
-  <a href="https://discord.com/user/788022153634906154"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
-  <a href="mailto:bledion.morina@hotmail.com"><img src="https://img.shields.io/static/v1?message=E-Mail&logo=E-Mail&label=&color=c9deff&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="email-logo" /></a>
-
 [![](https://visitcount.itsvg.in/api?id=bomba-cat&label=Profile%20Views&icon=3&pretty=false)](https://visitcount.itsvg.in)
