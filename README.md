@@ -7,4 +7,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=bomba-cat&theme=dracula&rank=-?&margin-w=4&no-frame=true)](https://github.com/bomba-cat)
 
 # About me
-I can honestly work on anything as long as it doesn't involve Javascript
+A real life human being
