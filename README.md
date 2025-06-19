@@ -6,5 +6,4 @@
 # Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=bomba-cat&theme=dracula&rank=-?&margin-w=4&no-frame=true)](https://github.com/bomba-cat)
 
-# About me
-A real life human being
+Your computer, your choice.
