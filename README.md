@@ -17,4 +17,4 @@
 
 ---
 
-Your computer, your choice.
+You can always contact me on discord under the username: bomba.cat
